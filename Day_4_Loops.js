@@ -11,7 +11,6 @@ console.log(n + "*" + i + "=" + n*i);
 }
 
 // Task 3: Write a program to calculate the sum of numbers from 1 to 10 using a while loop.
-
 let sum = 0;
 let k = 1;
 while(k <= 10){
@@ -35,7 +34,6 @@ do{
 }while(number <= 5);
 
 // Task 6: Write a program to calculate the factorial of a number using a do...while loop.
-
 let num = 5;
 let result = 1
 let i = num;
@@ -57,7 +55,6 @@ for(let i =1; i<= rows; i++){
 }
 
 // task 8: write a program to print numbers from 1 to 10, but skip the number 5 using the continue statement..
-
 for (let index = 1; index <= 10; index++) {
   if (index == 5) {
     // console.log("5 is Skipped");
@@ -65,8 +62,8 @@ for (let index = 1; index <= 10; index++) {
   }
   console.log(index);
 }
-// task 9: write a program to print numbers from 1 to 10, but stop the loop when the number is 7 using the break statement.
 
+// task 9: write a program to print numbers from 1 to 10, but stop the loop when the number is 7 using the break statement.
 for (let index = 1; index <= 10; index++) {
   if (index == 7) {
     // console.log("7 is Detected");
