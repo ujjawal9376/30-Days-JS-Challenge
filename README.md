@@ -37,5 +37,7 @@ Each day, we'll focus on a specific JavaScript topic. Here's the general outline
   • Control Structures
 
   • Loops
+  
+  • Functions
 
   Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
